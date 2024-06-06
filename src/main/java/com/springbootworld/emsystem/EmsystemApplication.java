@@ -9,7 +9,7 @@ public class EmsystemApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(EmsystemApplication.class, args);
-		System.out.println("Success!!");
+		System.out.println("To check Successful Commit and Push!!");
 	}
 
 }
