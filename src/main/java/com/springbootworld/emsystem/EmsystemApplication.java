@@ -9,7 +9,7 @@ public class EmsystemApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(EmsystemApplication.class, args);
-		System.out.println("HRM System Application started successfully!...");
+		System.out.println("HRM System Application started successfully!....");
 	}
 
 }
